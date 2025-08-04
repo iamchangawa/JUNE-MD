@@ -1,11 +1,11 @@
 const settings = {
   packname: '𝐉ᴜɴᴇ 𝐌ᴅ',
   author: 'supreme',
-  botName: "𝐉ᴜɴᴇ 𝐌ᴅ",
-  botOwner: 'Supreme', // Your name
-  ownerNumber: '254798570132', //Set your number here without + symbol.
+  botName: "nucco",
+  botOwner: 'Sadness', // Your name
+  ownerNumber: '254745431734', //Set your number here without + symbol.
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
+  commandMode: "private",
   description: "This is a bot for managing group commands and automating tasks.",
   version: "1.2.0",
 };
